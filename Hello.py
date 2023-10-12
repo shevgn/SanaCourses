@@ -8,3 +8,4 @@
 \f0\fs24 \cf0 # This is a comment\
 print(\'abHello world!\'bb)\
 a = 10}
+print("a is: ", a)
