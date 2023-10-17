@@ -1,7 +1,7 @@
 # Sana Commerce Software Development Courses `24
 ![Sana logo](https://upload.wikimedia.org/wikipedia/commons/0/08/Sana_Commerce_Logo.png)
 
-## Практична робота №2
+## Практична робота №1
 ### Основні завдання
 У **практичній роботі №1** було:
 1. створено локальний репозиторій
